@@ -1,0 +1,121 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+
+#body{
+	height: 161px;
+	background: url('../image/bg.gif') repeat-x;
+}
+#header_top{
+	width: 974px;
+	height: 161px;
+	background: url('../image/top.jpg') no-repeat;
+}
+#jju1{
+	float: left;
+	margin-top: 20px;
+}
+#font {
+	float: right;
+	font-size: 12px;
+	margin-top: 90px;
+	margin-right: 60px;
+}
+#font a:link{
+	text-decoration: none;
+}
+#clear{
+	width: 974px;
+	clear: both;
+}
+#menu1{
+	width: 800px;
+	height: 25px;
+	float: left;
+	margin-top: 25px;
+	font-size: 15px;
+}
+#menu1 a:link{
+	text-decoration: none;
+}
+#menu1 a:visited{
+	color: #FFFFFFFF;
+}
+#img1{
+	width: 100%;
+	height: 180px;
+	background-color: #EAEAEAFF;
+}
+#img2{
+	width: 974px;
+	height: 180px;
+	background: url('../image/ailianchi.jpg') no-repeat;
+}
+#lujing{
+	width:796px;
+	height: 55px;
+	margin-top: 10px;
+}
+ul li{
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif,新宋体;
+}
+ul li a:link{
+	text-decoration: none;
+}
+ul li a:visited{
+	color: #000000FF;
+}
+#text{
+	width: 796px;
+	height: 100%;
+	background-color: #F4F4F4FF;
+}
+#text h1{
+	font-size: 18pt;
+	text-align: center;
+}
+#bianji{
+	font-size: 9pt;
+	text-align: center;
+	line-height: 25pt;
+}
+.text1{
+	text-indent: 2em;
+	line-height: 24px;
+	font-size: 14px;
+	font-family:Arial, Helvetica, sans-serif,新宋体 ;
+}
+#span3{
+	width: 300px;
+	height: 50px;
+	margin-left: 400px;
+}
+#bottom_end{
+	width:100%;
+	height: 85px;
+	background-color: #EAEAEAFF;
+	font-size: 12px;
+font-family: Arial, Helvetica, sans-serif,新宋体;
+}
+#end1{
+	width: 974px;
+	height: 85px;
+	background-color: #197584FF;
+}
+#ide{
+	width: 201px;
+	height: 93px;
+	float: left;
+	margin-left: 15px;
+}
+#ide li{
+	float: left;
+}
+#ide1{
+	margin-top: 15px;
+}
+#ide2{
+	margin-top: 15px;
+	}

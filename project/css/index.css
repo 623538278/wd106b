@@ -1,0 +1,41 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+#body{
+	height: 161px;
+	background: url('../image/bg.gif') repeat-x;
+}
+#header_top{
+	width: 974px;
+	height: 161px;
+	background: url('../image/top.jpg') no-repeat;
+}
+#jju{
+	float: left;
+	margin-top: 20px;
+}
+#font {
+	float: right;
+	font-size: 12px;
+	margin-top: 90px;
+	margin-right: 60px;
+}
+#font a:link{
+	text-decoration: none;
+}
+#clear{
+	width: 974px;
+	clear: both;
+}
+#menu{
+	width: 800px;
+	height: 50px;
+	float: left;
+	margin-top: 20px;
+	font-size: 15px;
+}
+#menu a:link,a:visited{
+	text-decoration: none;
+	color: #FFFFFFFF;
+}
